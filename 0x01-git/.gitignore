@@ -1,1 +1,2 @@
-/root
+# don't push files named ~
+* ~ 

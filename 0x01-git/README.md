@@ -1,1 +1,3 @@
-My first readme Day 2
+My first Readme 
+Day 2 
+Day 3

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Don't push content of this file
    ~ 
+=======
+# don't push files named ~
+* ~ 
+>>>>>>> main
